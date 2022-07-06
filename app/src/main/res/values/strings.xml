@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name"> </string>
+    <string name="Mensagem_empate">EMPATE!</string>
+    <string name="Mensagem_derrota">Voce Perdeu!</string>
+    <string name="Mensagem_vitoria">Voce Ganhou!</string>
+    <string name="escolha_uma_opc_o">Escolha uma opcão!</string>
+    <string name="resultado_gerado">Resultado gerado</string>
+    <string name="imagem_papel">Imagem_papel</string>
+    <string name="imagem_pedra">Imagem_pedra</string>
+    <string name="imagem_tesoura">Imagem_tesoura</string>
+</resources>
